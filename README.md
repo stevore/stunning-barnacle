@@ -15,3 +15,8 @@ WHEN all prompts are answered
 THEN a password is generated that matches the selected criteria
 WHEN the password is generated
 THEN the password is either displayed in an alert or written to the page
+
+Consulted:
+w3 Collective - https://w3collective.com/random-password-generator-javascript/
+Nayuki - https://www.nayuki.io/res/random-password-generator-javascript/password-generator.js
+Stack Overflow - https://stackoverflow.com/questions/1497481/javascript-password-generator
